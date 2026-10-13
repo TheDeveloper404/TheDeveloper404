@@ -6,7 +6,6 @@
   <a href="mailto:office@acl-smartsoftware.ro"><img src="https://img.shields.io/badge/Email-office%40acl--smartsoftware.ro-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Location-Timi%C8%99oara%2C%20Romania-555?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
   <img src="https://img.shields.io/badge/Open%20to-new%20opportunities-2EA44F?style=flat-square" alt="Open to opportunities">
-  <img src="https://komarev.com/ghpvc/?username=TheDeveloper404&style=flat-square&color=blueviolet&label=Profile+views" alt="Profile views">
 </p>
 
 ---
