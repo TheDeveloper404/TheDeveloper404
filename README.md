@@ -41,12 +41,14 @@ Full-stack **Node.js / TypeScript / React** for the last years, with a backend b
 | Project | What it is | Built with |
 |---|---|---|
 | **[DETALIA](https://github.com/TheDeveloper404/DETALIA)** · [live](https://detalia.ro) | A professional community for construction details — "Stack Overflow for construction", where peers sketch and validate solutions by role | Next.js · Neon Postgres · Drizzle · Auth.js · Vercel |
+| **Your Urban** *(private, contract work)* | Multi-tenant SaaS for local public administration (urban planning and cadastre): per-institution data, role-based access, real-time updates and GIS mapping | Angular · Node.js · Express · PostgreSQL · Redis · WebSockets |
 | **[Filadelfia Petroșani](https://github.com/TheDeveloper404/filadelfia-petrosani)** · [live](https://www.filadelfia-petrosani.ro/) | Installable church PWA with an admin panel and live-stream status, self-hosted on a hardened Linux VPS | React · Vite · Hono · SQLite · Nginx · Cloudflare |
-| **[Seminarul Teologic Filadelfia](https://github.com/TheDeveloper404/seminarulteologicfiladelfia.ro)** · [live](https://seminarulteologicfiladelfia.ro) | Institutional website rebuilt from WordPress into a fast, modern stack with its own VPS deployment | Next.js · Tailwind CSS · PostgreSQL |
+| **[Seminarul Teologic Filadelfia](https://github.com/TheDeveloper404/seminarulteologicfiladelfia.ro)** · [live](https://seminarulteologicfiladelfia.ro) | Institutional website rebuilt from WordPress, with a student portal and admin area, deployed on its own VPS | Next.js · Tailwind CSS · PostgreSQL |
 | **[ACL Smart Software](https://github.com/TheDeveloper404/ACL-Smart-Software)** · [live](https://acl-smartsoftware.ro/) | My company website — bilingual, accessible, privacy-first analytics, covered by an end-to-end Playwright suite | Next.js · TypeScript · Vercel · Playwright |
-| **AI-OS** *(private)* | Local-first observability dashboard for AI coding agents — cost, tokens, sessions and skill ROI; raw data never leaves the machine | TypeScript · Node.js · SQLite · Next.js |
+| **ACL ePortal** *(private, in progress)* | Staff application for Romanian municipalities: territorial catalogue (SIRUTA), granular user rights, applicant and request registers, certificate issuance with PDF output | React · Vite · Express · PostgreSQL · Drizzle · Playwright |
+| **PetCare Tracker** *(iOS, in progress)* | Offline-first iPhone app for pet health records, vet appointments, weight history and reminders, with PDF export — no backend, no accounts, no tracking | Swift · SwiftUI · SwiftData · StoreKit 2 |
+| **rapoarte-agentiAI** *(private)* | Local-first observability for AI coding agents (Claude Code and Codex) — cost, tokens, sessions, skill usage and weekly reports; raw data never leaves the machine | TypeScript · Node.js · SQLite |
 | **[Claude Code Engineering System](https://github.com/TheDeveloper404/claude-code-engineering-system)** | My AI engineering workflow: process rules, hooks, skills and specialized review agents with quality gates | JavaScript · Shell · Claude Code |
-
 ---
 
 ## GitHub stats
