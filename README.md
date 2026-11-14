@@ -42,20 +42,29 @@ Full-stack **Node.js / TypeScript / React** for the last years, with a backend b
 |---|---|---|
 | **[DETALIA](https://github.com/TheDeveloper404/DETALIA)** · [live](https://detalia.ro) | A professional community for construction details — "Stack Overflow for construction", where peers sketch and validate solutions by role | Next.js · Neon Postgres · Drizzle · Auth.js · Vercel |
 | **Your Urban** *(private, contract work)* | Multi-tenant SaaS for local public administration (urban planning and cadastre): per-institution data, role-based access, real-time updates and GIS mapping | Angular · Node.js · Express · PostgreSQL · Redis · WebSockets |
+| **Meridian Transconstruct** · [live](https://meridian-transconstruct.ro) | Client website for a construction company: services, project gallery and a spam-protected contact form, running at the edge | Next.js · Cloudflare Workers · Resend |
 | **[Filadelfia Petroșani](https://github.com/TheDeveloper404/filadelfia-petrosani)** · [live](https://www.filadelfia-petrosani.ro/) | Installable church PWA with an admin panel and live-stream status, self-hosted on a hardened Linux VPS | React · Vite · Hono · SQLite · Nginx · Cloudflare |
 | **[Seminarul Teologic Filadelfia](https://github.com/TheDeveloper404/seminarulteologicfiladelfia.ro)** · [live](https://seminarulteologicfiladelfia.ro) | Institutional website rebuilt from WordPress, with a student portal and admin area, deployed on its own VPS | Next.js · Tailwind CSS · PostgreSQL |
 | **[ACL Smart Software](https://github.com/TheDeveloper404/ACL-Smart-Software)** · [live](https://acl-smartsoftware.ro/) | My company website — bilingual, accessible, privacy-first analytics, covered by an end-to-end Playwright suite | Next.js · TypeScript · Vercel · Playwright |
 | **ACL ePortal** *(private, in progress)* | Staff application for Romanian municipalities: territorial catalogue (SIRUTA), granular user rights, applicant and request registers, certificate issuance with PDF output | React · Vite · Express · PostgreSQL · Drizzle · Playwright |
-| **PetCare Tracker** *(iOS, in progress)* | Offline-first iPhone app for pet health records, vet appointments, weight history and reminders, with PDF export — no backend, no accounts, no tracking | Swift · SwiftUI · SwiftData · StoreKit 2 |
+| **[PetCare Tracker](https://github.com/TheDeveloper404/PetCare-Tracker)** *(iOS, in progress)* | Offline-first iPhone app for pet health records, vet appointments, weight history and reminders, with PDF export — no backend, no accounts, no tracking | Swift · SwiftUI · SwiftData · StoreKit 2 |
+| **[WhatsApp AI](https://github.com/TheDeveloper404/WhatsappAI)** | Personal WhatsApp agent that replies in my style when I'm away: per-contact memory, a knowledge base and model fallback, configured entirely from chat commands | Node.js · TypeScript · PostgreSQL · OpenRouter · systemd |
+| **AI System** *(private)* | Real-time Romanian speech-to-text with AI-generated technical answers, built for practice mock interviews | Python · Groq · Claude |
 | **rapoarte-agentiAI** *(private)* | Local-first observability for AI coding agents (Claude Code and Codex) — cost, tokens, sessions, skill usage and weekly reports; raw data never leaves the machine | TypeScript · Node.js · SQLite |
 | **[Claude Code Engineering System](https://github.com/TheDeveloper404/claude-code-engineering-system)** | My AI engineering workflow: process rules, hooks, skills and specialized review agents with quality gates | JavaScript · Shell · Claude Code |
+
 ---
 
-## GitHub stats
+## Tech stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheDeveloper404&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeveloper404&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,angular,tailwind,postgres,redis,swift,cloudflare,vercel,docker,linux,githubactions" alt="Tech stack">
+</p>
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=TheDeveloper404&hide_border=true&background=00000000" alt="GitHub streak">
 </p>
 
 ---
