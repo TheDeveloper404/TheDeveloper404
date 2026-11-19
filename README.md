@@ -41,7 +41,6 @@ Full-stack **Node.js / TypeScript / React** for the last years, with a backend b
 | Project | What it is | Built with |
 |---|---|---|
 | **[DETALIA](https://github.com/TheDeveloper404/DETALIA)** · [live](https://detalia.ro) | A professional community for construction details — "Stack Overflow for construction", where peers sketch and validate solutions by role | Next.js · Neon Postgres · Drizzle · Auth.js · Vercel |
-| **Your Urban** *(private, contract work)* | Multi-tenant SaaS for local public administration (urban planning and cadastre): per-institution data, role-based access, real-time updates and GIS mapping | Angular · Node.js · Express · PostgreSQL · Redis · WebSockets |
 | **Meridian Transconstruct** · [live](https://meridian-transconstruct.ro) | Client website for a construction company: services, project gallery and a spam-protected contact form, running at the edge | Next.js · Cloudflare Workers · Resend |
 | **[Filadelfia Petroșani](https://github.com/TheDeveloper404/filadelfia-petrosani)** · [live](https://www.filadelfia-petrosani.ro/) | Installable church PWA with an admin panel and live-stream status, self-hosted on a hardened Linux VPS | React · Vite · Hono · SQLite · Nginx · Cloudflare |
 | **[Seminarul Teologic Filadelfia](https://github.com/TheDeveloper404/seminarulteologicfiladelfia.ro)** · [live](https://seminarulteologicfiladelfia.ro) | Institutional website rebuilt from WordPress, with a student portal and admin area, deployed on its own VPS | Next.js · Tailwind CSS · PostgreSQL |
